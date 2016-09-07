@@ -20,7 +20,7 @@ return array (
 'You have {n} new notification|You have {n} new notifications'=>'',
 'action <b>{tag}</b> about'=>'',
 'commented '=>'',
-'petition'=>'petició',
+'petition'=>'peticion',
 ' '=>' ',
 ' and '=>' i ',
 ' appeal {tag}'=>'',

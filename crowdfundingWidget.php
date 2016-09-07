@@ -23,7 +23,7 @@ return array (
   'collected of {n}' => '',
   'After fulfillment of your promise,{br /}share the results with everyone' => 'Un cop complerta la promesa, {br /} comparteix els resultats amb tothom',
   'Choose an action' => 'Escull una acció',
-  'Crowdfunding is finished' => 'Crowdfunding s’ha completat',
+  'Crowdfunding is finished' => 'Finançaments col·lectius s’ha completat',
   'The donated amount will leave your account each month during the donation period' => 'La quantitat donada serà transferida del teu compte cada mes durant el període de donació',
   'Crowdfunding is over<br>The target sum wasn`t collected' => 'Crowdfunding s’ha acabat<br>No s’ha arribat a l’objectiu',
   'Donate' => 'Donar',

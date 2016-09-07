@@ -46,7 +46,7 @@ return array (
   'Nobody' => 'Ningú',
   'Organizator' => 'Organitzador',
   'Personal Information' => 'Dades personals',
-  'Petition' => 'Sol·licitud',
+  'Petition' => 'Peticion',
   'Poll' => 'Votació',
   'Project' => 'Projecte',
   'Registration Information' => 'Dades de registre',

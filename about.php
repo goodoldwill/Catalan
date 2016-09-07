@@ -28,7 +28,7 @@ return array (
 'Ask us'=>'',
 'By means of {tag} you can get the statistics on the polls, know which problems worry the voters in different regions and understand better your electorate.'=>'Amb ajuda de {tag} es pot obtenir l’estadística per les votacions, saber quins problemes preocupen als votants en regions diferents i comprendre millor el seu electorat.',
 'Creating an issue, you can mark a place on the map related with this issue. For example, the street where the asphalt collapsed. Reading the issue, other users will be able to find this place on the map.'=>'Creant un assumpte, pot marcar el lloc que es refereix a aquest assumpte al mapa. Per exemple, el carrer en la qual es va esfondrar l’asfalt. Altres usuaris, llegint l’assumpte, podran trobar aquest lloc al mapa.',
-'Crowdfunding'=>'Crowdfunding',
+'Crowdfunding'=>'Finançaments col·lectius',
 'Don’t forget that the payment system always takes commission for its services.'=>'No oblidi que el sistema de pagament sempre cobra comissió pels seus serveis.',
 'Every authorized user can leave comments to issues. You can vote for every comment you liked. You can offer your solutions of the issue in coments. The solution which gained the majority of votes, is shown the first as the most popular one.'=>'Cada usuari registrat pot deixar comentaris als assumptes. Per cada comentari es pot votar, si li va agradar. En els comentaris es pot oferir les seves solucions de la causa. La solució que va obtenir el major nombre de vots es mostra en el primer lloc com la més popular.',
 'Every {tag} participant can show his worth and really help to the city!'=>'Cada participant de {tag} pot expressar-se i relament ajudar a la seva ciutat!',
