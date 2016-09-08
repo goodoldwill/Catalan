@@ -111,7 +111,7 @@ return array (
   'It`s done' => 'Ja està fet',
   'Kind regards, ' => 'Atentament, ',
   'Latitude' => 'Latitud',
-  'Life sphere' => 'Esfera de vida',
+  'Life sphere' => 'Tema',
   'Longitude' => 'Longitud',
   'Make a test payment' => 'Fes un pagament de proba',
   'Moderating' => 'Moderant',

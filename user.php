@@ -26,7 +26,7 @@ return array (
   'male' => '',
   'Are you sure you want to delete this content?' => '¿Estàs segur que vols eliminar aquest contingut?',
   'Asks' => 'Pregunta',
-  'Author' => 'Autor',
+  'Author' => 'Creat per',
   'BUDGET' => 'PRESSUPOST',
   'Budget' => 'Pressupost',
   'Cancel' => 'Cancelar',
@@ -54,7 +54,7 @@ return array (
   'TO:' => 'LA SOLICITUD ESTÀ DIRIGIDA A:',
   'What will the money be spent on?' => '¿En que es gastaràn els diners?',
   'Year' => 'Any',
-  'You can`t edit the poll because people have already voted.' => 'No es pot editar la votació perque la gent ja hi està participant',
+  'You can`t edit the poll because people have already voted.' => 'No es permet ledició duna enquesta que conté vots',
   'You participate in the life of' => 'Participa a la vida de',
   'project on making the city better' => 'projecte de millora de la ciutat',
 );

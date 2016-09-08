@@ -20,7 +20,7 @@ return array (
   'Contacting authorities' => '',
   'Learn from the residents' => '',
   'Share news, idea, opinion or share issue' => '',
-  'Sponsoring' => '',
+  'Sponsoring' => 'Patrocinis',
   'Album' => 'Àlbum',
   'Collecting signatures to solve the problem' => 'Recollint de signatures per resoldre el problema',
   'Copy the link and paste it here' => 'Copia l’enllaç i enganxa’l aquí',
