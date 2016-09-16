@@ -127,6 +127,6 @@ return array (
   'You can`t create such a long password' => 'No es pot crear una contrasenya tant llarga.',
   'You may have entered the incorrect address' => 'És possible que hagis entrat l’adreça incorrecta.',
   'cannot be blank' => 'No pot estar en blanc',
-  'try again later' => 'Prova-ho més tard',
+  'try again later' => 'Ho sentim, hi ha hagut un error. Si us plau, torna a provar més tard',
   '{tag} feature is turned off by the configuration' => 'La funcionalitat {tag} està desactivada per la configuració.',
 );

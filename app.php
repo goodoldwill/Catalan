@@ -1326,7 +1326,7 @@ return array (
   'You left a' => 'deixar un',
   'You may be the first' => 'Pot ser el primer ',
   'You may participate in the city`s issues discussion' => 'Pot participar en la discussió dels assumptes de la ciutat',
-  'You participate in the life of' => 'Va a participar en la vida de',
+  'You participate in the life of' => 'És aquesta la teva ciutat?',
   'You shared a link' => 'Va compartir un enllaç',
   'You signed' => 'signar',
   'You want to participate in the life of' => 'Vol participar en la vida de',

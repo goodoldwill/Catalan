@@ -43,7 +43,7 @@ return array (
   'Change the password' => 'Canviar la contrasenya',
   'Create an account' => 'Crear una conta',
   'Enter the e-mail address provided during the registration, and press "Change the Password". We’ll send you a new password.' => 'Introdueix el correu electrònic utilitzat durant el registre i prem a "Canviar la contrasenya". T’enviarem una nova contrasenya.',
-  'False' => 'Fals',
+  'False' => 'No',
   'I accept {userAgreementLink}the terms of use{/userAgreementLink}, agree with processing my personal data and confirm that I am 18.' => 'Accepto els {userAgreementLink}termes d’ús{/userAgreementLink}, el tractament de les meves dades personals i confirmo que tinc 18 anys.',
   'Inhabited locality`s name' => 'Nom de la localitat',
   'Log in' => 'Iniciar sessió',
@@ -67,5 +67,5 @@ return array (
   'done' => 'fet',
   'log in' => 'iniciar sessió',
   'save' => 'guardar',
-  'Continue' => 'Continuar',
+  'Continue' => 'Si',
 );

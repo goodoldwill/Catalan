@@ -55,6 +55,6 @@ return array (
   'What will the money be spent on?' => '¿En que es gastaràn els diners?',
   'Year' => 'Any',
   'You can`t edit the poll because people have already voted.' => 'No es permet ledició duna enquesta que conté vots',
-  'You participate in the life of' => 'Participa a la vida de',
+  'You participate in the life of' => 'És aquesta la teva ciutat?',
   'project on making the city better' => 'projecte de millora de la ciutat',
 );
