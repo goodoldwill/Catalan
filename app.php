@@ -1220,6 +1220,7 @@ return array (
   'The participants will be able to transfer donations to other actions.' => 'Els participants podran transferir els diners transferit a altres accions.',
   'The password was successfully changed' => 'La contrasenya es va canviar',
   'The petition is in progress' => 'La sol·licitud s’està observant',
+  'The photo has been uploaded correctly' => 'S’ha pujat la foto correctament',
   'The poll is deleted' => 'la votació es va eliminar',
   'The postal address or e-mail must exist' => 'El correu postal o electrònic ha d’existir',
   'The problem is resolved' => 'El problema es va solucionar',
